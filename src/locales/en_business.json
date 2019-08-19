@@ -1,0 +1,16 @@
+{
+	"resourcecar": {
+		"carId": "主键id",
+		"carNo": "车辆编号",
+		"plateNo": "车牌号",
+		"state": "状态",
+		"carId": "主键id",
+		"carNo": "车辆编号",
+		"plateNo": "车牌号",
+		"state": "状态",
+		"addnew" : "New ResourceCar",
+		"edit": "Edit ResourceCar",
+		"delete_confirm": "Are you sure to delete ResourceCar [ {0} ] ?",
+		"delete_success": "ResourceCar [ {0} ] has been delete successfully"
+	}
+}
