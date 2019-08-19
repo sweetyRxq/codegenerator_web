@@ -1,4 +1,5 @@
 //GENERATE_START
+
 <!-- The ResourceCar Business Entity manangement Component -->
 <template>
   	<div class="app-container">
@@ -141,6 +142,7 @@
     	}
   	}
 </script>
+
 //GENERATE_END
 <style>
 </style>

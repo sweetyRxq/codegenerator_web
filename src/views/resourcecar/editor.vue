@@ -1,4 +1,5 @@
 //GENERATE_START
+
 <template>
 	<el-dialog :title="title" :visible.sync="visible">
 		<el-form v-if="visible == true" ref="saveForm" :model="entity" status-icon label-width="120px">
@@ -64,4 +65,5 @@
 		}
 	}
 </script>
+
 //GENERATE_END
