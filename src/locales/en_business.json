@@ -1,0 +1,28 @@
+{
+	"resourcebox": {
+		"boxId": "主键id",
+		"boxNo": "箱子编号",
+		"state": "箱子状态",
+		"boxId": "主键id",
+		"boxNo": "箱子编号",
+		"state": "箱子状态",
+		"addnew" : "New ResourceBox",
+		"edit": "Edit ResourceBox",
+		"delete_confirm": "Are you sure to delete ResourceBox [ {0} ] ?",
+		"delete_success": "ResourceBox [ {0} ] has been delete successfully"
+	},
+	"resourcecar": {
+		"carId": "主键id",
+		"carNo": "车辆编号",
+		"plateNum": "车牌号",
+		"state": "车辆状态",
+		"carId": "主键id",
+		"carNo": "车辆编号",
+		"plateNum": "车牌号",
+		"state": "车辆状态",
+		"addnew" : "New ResourceCar",
+		"edit": "Edit ResourceCar",
+		"delete_confirm": "Are you sure to delete ResourceCar [ {0} ] ?",
+		"delete_success": "ResourceCar [ {0} ] has been delete successfully"
+	}
+}
